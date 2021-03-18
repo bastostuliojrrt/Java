@@ -1,2 +1,2 @@
 # Java
-Repositório para exercícios em Java
+## Repositório para exercícios em Java
